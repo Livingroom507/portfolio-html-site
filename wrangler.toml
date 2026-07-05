@@ -1,9 +1,2 @@
-name = "livingroom507-backend"
-main = "worker.js"
-compatibility_date = "2026-07-04"
-
-# Example D1 Database binding if you are pulling products from a database
-# [[d1_databases]]
-# binding = "DB"
-# database_name = "your-database-name"
-# database_id = "your-database-id"
+# wrangler.toml
+name = 'portfolio-html-site'
